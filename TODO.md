@@ -14,3 +14,5 @@ TODO.md on 2026-09-14 (see that project's TODO.md/SUGGESTIONS.md for the still
 mostly-shared cross-cutting work — request-guard, main.py refactor, GUI system
 — that touches every agent, Chat included, rather than one specifically).
 Add items here going forward as Chat-specific work comes up.
+- [ ] `P2` `feature` `@ai` Chat Projects stages 2.3–2.6 — project instructions, defaults, budget and management UI. Grouping is already useful and safe without these; each of them changes behaviour, so they land separately. *(moved from sentinel_fork/TODO.md)*
+- [ ] `P2` `feature` `@ai` Stream responses rather than wait-then-dump. *(moved from sentinel_fork/TODO.md)*

@@ -8,6 +8,5 @@ Status: `IDEA` · `CONSIDERING` · `PLANNED` · `DONE` · `REJECTED`
 
 | # | Suggestion | Category | Effort | Status |
 |---|---|---|---|---|
-
-No open suggestions yet — see sentinel_fork's own SUGGESTIONS.md for ideas that
-are still shared across agents rather than specific to Chat.
+| 1 | Hand a conversation off to the specialist agent that should own it | feature | L | CONSIDERING |
+| 2 | Per-project defaults so a Chat Project opens with its own model and budget | feature | M | PLANNED |
